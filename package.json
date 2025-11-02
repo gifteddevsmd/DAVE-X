@@ -30,7 +30,7 @@
     "buffer": "*",
     "dotenv": "*",
     "express": "^4.19.2",
-    "file-type": "17.1.6",
+    "file-type": "16.5.4",
     "ffmpeg-static": "*",
     "fluent-ffmpeg": "*",
     "@hapi/boom": "*",
