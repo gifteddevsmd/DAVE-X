@@ -9,9 +9,8 @@
     "node": "22.x"
   },
   "scripts": {
-    "start": "pm2 start index.js --name giftedmd",
-    "stop": "pm2 stop giftedmd",
-    "restart": "pm2 restart giftedmd"
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
   },
   "keywords": [
     "gifted-md",
@@ -58,10 +57,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mauricegift/gifted-md.git"
+    "url": "git+https://github.com/gifteddevsmd/DAVE-X.git"
   },
   "bugs": {
-    "url": "https://github.com/mauricegift/gifted-md/issues"
+    "url": "https://github.com/gifteddevsmd/DAVE-X/issues"
   },
-  "homepage": "https://github.com/mauricegift/gifted-md#readme"
+  "homepage": "https://github.com/gifteddevsmd/DAVE-X#readme"
 }
